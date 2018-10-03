@@ -1,5 +1,5 @@
 # Android-Phone-NFC-Add-General-Carrier
-使用具NFC功能之Android手機取代非接觸式讀卡機並執行iCash2.0、悠遊卡、一卡通電子發票載具歸戶
+使用具NFC功能之Android手機執行iCash2.0、悠遊卡、一卡通電子發票載具歸戶
 
 前置作業：到Google Play下載「[NFC Reader](https://play.google.com/store/apps/details?id=com.ssaurel.nfcreader)  」
   
